@@ -1,0 +1,1 @@
+from models.lecture import Lecture
